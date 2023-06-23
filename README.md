@@ -3,8 +3,8 @@ My first Arduino project with vehicle
 
 ## Functionality
 ### Changing modes:
-1)Buttons B+D - Individual -> Mobile and Mobile->Individual
-2)Buttons B+C - Fast-> Slow and Slow-> Fast (only when mobile mode is active)
+1) Buttons B+D - Individual -> Mobile and Mobile->Individual
+2) Buttons B+C - Fast-> Slow and Slow-> Fast (only when mobile mode is active)
 
 ### Mobile mode:
 1) Button A - Move forward
