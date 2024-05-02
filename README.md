@@ -31,3 +31,8 @@ My first Arduino project with vehicle
 6) Battery basket 6x1,5V (AA batteries)
 7) Bunch of cables
 8) Four-channel 433 MHz radio module + remote control
+
+### Watch project in action [here](https://youtu.be/En2ENnB77J0)
+
+### Vehicle with controller
+![Image](https://github.com/Xirokik/Remote-controlled-vehicle/blob/main/Vehicle%20with%20controller.jpg)
